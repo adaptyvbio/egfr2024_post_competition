@@ -246,7 +246,8 @@ $RECYCLE.BIN/
 .LSOverride
 
 # Icon must end with two \r
-Icon
+Icon
+
 
 # Thumbnails
 ._*
@@ -272,3 +273,13 @@ Temporary Items
 *.icloud
 
 # End of https://www.toptal.com/developers/gitignore/api/macos
+
+.specstory/
+/adaptyv/data/databases
+/adaptyv/data/raw
+/adaptyv/data/processed
+/adaptyv/data/round_1
+/adaptyv/data/round_2
+/adaptyv/data/round_2
+/adaptyv/data/wells_wood
+/adaptyv/adaptyv_analyses/plots
