@@ -1,0 +1,13 @@
+matplotlib>=3.5
+pandas>=1.5
+numpy>=1.23
+pandas-stubs>=2.0
+loguru>=0.7
+tqdm>=4.66
+biopython>=1.81
+pyarrow>=15
+fastparquet>=2024.2.0
+scipy>=1.10
+modal>=0.64
+multiprocess>=0.70.16
+
