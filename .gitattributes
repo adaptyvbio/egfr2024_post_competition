@@ -5,3 +5,6 @@
 *.parquet filter=lfs diff=lfs merge=lfs -text
 *.zip filter=lfs diff=lfs merge=lfs -text
 *.png filter=lfs diff=lfs merge=lfs -text
+# skip the subtree
+hoyinchu/neutralization_analysis/** -filter -diff -merge -text
+
