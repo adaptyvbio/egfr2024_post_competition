@@ -1,0 +1,1 @@
+# From https://github.com/haddocking/prodigy/blob/main/src/prodigy_prot

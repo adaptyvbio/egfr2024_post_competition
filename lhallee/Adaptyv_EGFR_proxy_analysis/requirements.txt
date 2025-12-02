@@ -1,0 +1,8 @@
+transformers
+datasets
+pandas
+prodigy-prot
+numpy==1.26.4
+freesasa>=2.2.1
+biopython>=1.80
+scikit-learn
