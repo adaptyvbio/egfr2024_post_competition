@@ -1,0 +1,3 @@
+[submodule "Adaptyv_EGFR_proxy_analysis"]
+	path = lhallee/Adaptyv_EGFR_proxy_analysis
+	url = https://github.com/lhallee/Adaptyv_EGFR_proxy_analysis.git

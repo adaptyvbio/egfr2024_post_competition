@@ -1,0 +1,6 @@
+
+Chn1 Chn2  PAE Dist  Type   ipSAE    ipSAE_d0chn ipSAE_d0dom  ipTM_af  ipTM_d0chn     pDockQ     pDockQ2    LIS       n0res  n0chn  n0dom   d0res   d0chn   d0dom  nres1   nres2   dist1   dist2  Model
+A    B     10   10   asym  0.530992    0.702556    0.567127    0.000    0.456133      0.1954     0.5240     0.3593     268    671    319    6.04    8.97    6.54     47     272      24      28   C:\Users\Logan\Desktop\Research\BinderAnalysis\chai1_preds\prediction_e3ed9f59_1760128471
+B    A     10   10   asym  0.307738    0.850240    0.736775    0.000    0.850240      0.1954     0.5297     0.4537      50    671    278    2.26    8.97    6.14    228      50      28      24   C:\Users\Logan\Desktop\Research\BinderAnalysis\chai1_preds\prediction_e3ed9f59_1760128471
+A    B     10   10   max   0.530992    0.850240    0.736775    0.000    0.850240      0.1954     0.5297     0.4065     268    671    278    6.04    8.97    6.14     50     272      24      28   C:\Users\Logan\Desktop\Research\BinderAnalysis\chai1_preds\prediction_e3ed9f59_1760128471
+

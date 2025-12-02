@@ -1,0 +1,8 @@
+# Chn1 Chn2  PAE Dist  Type   ipSAE    ipSAE_d0chn ipSAE_d0dom  ipTM_af  ipTM_d0chn     pDockQ     pDockQ2    LIS      n0res  n0chn  n0dom   d0res   d0chn   d0dom  nres1   nres2   dist1   dist2  Model
+# A    B     10   10   asym  0.495099    0.695770    0.544814    0.000    0.416119      0.2363     0.3290     0.3033     240    671    302    5.74    8.97    6.38     48     254      20      32   C:\Users\Logan\Desktop\Research\BinderAnalysis\chai1_preds\prediction_ceaf7b9c_1760127718
+alias color_A_B, color gray80, all; color magenta, chain  A and resi 3-50; color marine, chain  B and resi 289-292+305-538+540+543-552+554+556+559+566+569
+
+# B    A     10   10   asym  0.210438    0.790801    0.637472    0.000    0.790801      0.2363     0.3740     0.4161      50    671    268    2.26    8.97    6.04    218      50      32      20   C:\Users\Logan\Desktop\Research\BinderAnalysis\chai1_preds\prediction_ceaf7b9c_1760127718
+# A    B     10   10   max   0.495099    0.790801    0.637472    0.000    0.790801      0.2363     0.3740     0.3597     240    671    268    5.74    8.97    6.04     50     254      20      32   C:\Users\Logan\Desktop\Research\BinderAnalysis\chai1_preds\prediction_ceaf7b9c_1760127718
+alias color_B_A, color gray80, all; color marine, chain  B and resi 311-458+460-515+524-526+528-536+547+561; color magenta, chain  A and resi 1-50
+
