@@ -16,7 +16,7 @@ This repo contains the follow-up analysis of the neutralisation data from the Ro
 4. `tmscores_to_egf.csv`: TM-score of the binders to EGF
 5. `neutralisation_df_filtered`: A merged dataframe of other tables in this directory filtered for binders tested with neutralisation assay. Constructed by the notebook
 
-`data/structure_predictions`: This should be downloaded from [here](https://api.adaptyvbio.com/storage/v1/object/public/egfr_design_competition_2/structure_predictions.zip)
+`data/structure_predictions`: This should be downloaded from [here](https://adaptyvbio-egfr-design-competition-2.s3.eu-central-1.amazonaws.com/structure_predictions.zip)
 
 `data/pymol_bfactor_pdbs`: PDBs with bfactors modified for visualisation purposes
 
